@@ -1,14 +1,14 @@
 👋 Hi
 
-Currently building skills
+Currently building my portfolio :)
 
-🫥 javascript
+Here's some of the tech I'm loving
+🫥 Javascript/Typescript
+🫥 Svelte & Sveltekit
 🫥 Html
 🫥 CSS
-🫥 bash & ssh
-🫥 svelte & sveltekit
-🫥 linux
+🫥 bash
 🫥 Google Appscript
-🫥 @Jsdcos
-🫥 Typescript
-🫥 Node.js
+🫥 Tailwindcss
+
+
