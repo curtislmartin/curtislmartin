@@ -31,10 +31,13 @@ I came into software semi-self-taught — earlier studies in game development ga
 
 ### Stack I actually use
 
-**Mobile / native:** Swift 6, SwiftUI, SwiftData, watchOS, HealthKit, CoreMotion, Swift Testing
+**Mobile / native:** Swift 6, SwiftUI, SwiftData, watchOS, HealthKit, CoreMotion, Swift Testing, Dart
+
 **Web:** SvelteKit, TypeScript, Astro, Vercel
-**Backend:** Supabase, FastAPI, PostgreSQL, Google Apps Script
-**Tooling:** Git, GitHub Actions, Xcode, Cursor, Claude Code
+
+**Backend:** Supabase, FastAPI, PostgreSQL, Google Apps Script, Sanity, PHP
+
+**Tooling:** Git, GitHub Actions, Xcode, VS Code, nvim, Claude Code
 
 ### Get in touch
 
