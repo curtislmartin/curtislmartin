@@ -39,6 +39,8 @@ I came into software semi-self-taught — earlier studies in game development ga
 
 **Tooling:** Git, GitHub Actions, Xcode, VS Code, nvim, Claude Code
 
+**Homelab / infra:** Arch Linux (Omarchy), OpenMediaVault, Docker
+
 ### Get in touch
 
 Best way to reach me right now is by opening an issue or discussion on any of the project repos above. A proper contact form is on the to-do list for [clmartin.dev](https://clmartin.dev) — happy to chat about NDIS-tech, Swift, or the strange path from sound desks to software.
