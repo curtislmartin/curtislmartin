@@ -8,10 +8,10 @@ My path into engineering was unconventional. Earlier studies in game development
 
 ### What I'm working on
 
-- **[daily-ascent](https://github.com/curtislmartin/daily-ascent)** — iOS + watchOS bodyweight training app. SwiftUI, SwiftData, Swift 6 with strict concurrency, HealthKit, WatchConnectivity, and a CoreMotion sensor recording pipeline feeding a Supabase backend for future ML-powered rep counting. [Live on the App Store.](https://apps.apple.com/au/app/daily-ascent/id6760611343)
-- **[daily-ascent-engineering](https://github.com/curtislmartin/daily-ascent-engineering)** — the specs, plans, and architecture decisions behind Daily Ascent. I write the design docs before I write the code, and this repo is where they live.
-- **[participant-buddy](https://github.com/curtislmartin/participant-buddy)** — open-source NDIS client management dashboard built on Google Apps Script. Compliance tracking, automated reminders, email templates with 40+ dynamic placeholders. We use it every day at Care Culture; now MIT licensed so other small providers can too.
-- **[clmartin.dev](https://clmartin.dev)** — personal site and blog. SvelteKit. Where I write about the tools above and what I learn building them.
+- **[daily-ascent](https://github.com/curtislmartin/daily-ascent)** - iOS + watchOS bodyweight training app. SwiftUI, SwiftData, Swift 6 with strict concurrency, HealthKit, WatchConnectivity, and a CoreMotion sensor recording pipeline feeding a Supabase backend for future ML-powered rep counting. [Live on the App Store.](https://apps.apple.com/au/app/daily-ascent/id6760611343)
+- **[daily-ascent-engineering](https://github.com/curtislmartin/daily-ascent-engineering)** - the specs, plans, and architecture decisions behind Daily Ascent. I write the design docs before I write the code, and this repo is where they live.
+- **[participant-buddy](https://github.com/curtislmartin/participant-buddy)** - open-source NDIS client management dashboard built on Google Apps Script. Compliance tracking, automated reminders, email templates with 40+ dynamic placeholders. We use it every day at Care Culture; now MIT licensed so other small providers can too.
+- **[clmartin.dev](https://clmartin.dev)** - personal site and blog. SvelteKit. Where I write about the tools above and what I learn building them.
 
 More tools on the way to public — including **Booking Buddy**, the client booking management tool I built alongside participant-buddy. It's been through a few rewrites and powers the day-to-day at Care Culture, so it gets a lot of real-world stress-testing.
 
@@ -27,7 +27,7 @@ More tools on the way to public — including **Booking Buddy**, the client book
 | 2016 | Cert IV Sound Production / Diploma of Music Industry |
 | Earlier | Hospitality and casual construction work |
 
-I came into software semi-self-taught — earlier studies in game development gave me a base in C++ and Python, and the operational side of running Care Culture gave me a steady supply of real problems to solve. Most of my code starts as "I can't keep doing this manually" and ends up as a tool the team uses every day.
+I came into software semi-self-taught, earlier studies in game development gave me a base in C++ and Python, and the operational side of running Care Culture gave me a steady supply of real problems to solve. Most of my code starts as "I can't keep doing this manually" and ends up as a tool the team uses every day.
 
 ### Stack I actually use
 
