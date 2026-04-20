@@ -1,10 +1,10 @@
 ## Hi, I'm Curtis 👋
 
-Sydney-based director and software builder at [Care Culture](https://careculture.com.au), an NDIS disability services provider in Australia. My wife and I founded the business in 2021 — since then we've onboarded and managed 60+ staff and supported 100+ participants. I write the software that runs it.
+Sydney-based director and software builder at [Care Culture](https://careculture.com.au), an NDIS disability services provider in Australia. My wife and I founded the business in 2021, since then we've onboarded and managed 60+ staff and supported 100+ participants. I write the software that runs it.
 
-I'm also studying a Master of IT (current GPA 7/7), and I'm genuinely obsessed with learning — picking up new languages, frameworks, and tools is the part of this job I enjoy most.
+I'm also studying a Master of IT (current GPA 7/7), and I'm genuinely obsessed with learning, picking up new languages, frameworks, and tools is the part of this job I enjoy most.
 
-My path into engineering was unconventional. Earlier studies in game development and sound production led to a couple of short international tours (Tahiti and New Zealand) as a sound engineer with [Te Vaka](https://en.wikipedia.org/wiki/Te_Vaka) — the musicians who wrote Disney's *Moana* film score. After that came media QC and a few months running PowerShell automation for the racing.com broadcast syndication pipeline at Chief Entertainment, then a stint as a disability support worker before founding Care Culture. I like building things and I like fixing things; the variety is the point.
+My path into engineering was unconventional. Earlier studies in game development and sound production led to a couple of short international tours (Tahiti and New Zealand) as a sound engineer with [Te Vaka](https://en.wikipedia.org/wiki/Te_Vaka), the musicians who wrote Disney's *Moana* film score. After that came media QC and a few months running PowerShell automation for the racing.com broadcast syndication pipeline at Chief Entertainment, then a stint as a disability support worker before founding Care Culture. I like building things and I like fixing things; the variety is the point.
 
 ### What I'm working on
 
@@ -13,7 +13,7 @@ My path into engineering was unconventional. Earlier studies in game development
 - **[participant-buddy](https://github.com/curtislmartin/participant-buddy)** - open-source NDIS client management dashboard built on Google Apps Script. Compliance tracking, automated reminders, email templates with 40+ dynamic placeholders. We use it every day at Care Culture; now MIT licensed so other small providers can too.
 - **[clmartin.dev](https://clmartin.dev)** - personal site and blog. SvelteKit. Where I write about the tools above and what I learn building them.
 
-More tools on the way to public — including **Booking Buddy**, the client booking management tool I built alongside participant-buddy. It's been through a few rewrites and powers the day-to-day at Care Culture, so it gets a lot of real-world stress-testing.
+More tools on the way to public, including **Booking Buddy**, the client booking management tool I built alongside participant-buddy. It's been through a few rewrites and powers the day-to-day at Care Culture, so it gets a lot of real-world stress-testing.
 
 ### Background
 
