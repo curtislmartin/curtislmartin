@@ -32,4 +32,4 @@ My path here was unconventional: game development studies, sound engineering tou
 
 ### Get in touch
 
-Open an issue on any repo above, email [curtis@clmartin.dev](mailto:curtis@clmartin.dev), or find me at [clmartin.dev](https://clmartin.dev).
+Open an issue on any repo above, email [clmartin.dev@gmail.com](mailto:clmartin.dev@gmail.com), or find me at [clmartin.dev](https://clmartin.dev).
