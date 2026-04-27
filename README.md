@@ -2,7 +2,7 @@
 
 Sydney-based director and software builder at [Care Culture](https://careculture.com.au), an NDIS disability services provider in Australia. My wife and I founded the business in 2021, since then we've onboarded and managed 60+ staff and supported 100+ participants. I write the software that runs it.
 
-I'm also studying a Master of IT (current GPA 7/7), and I'm genuinely obsessed with learning, picking up new languages, frameworks, and tools is the part of this job I enjoy most.
+I'm also studying a Master of IT (current GPA 7/7), and I'm obsessed with learning, picking up new languages, frameworks, and tools is the part of this job I enjoy most.
 
 My path into engineering was unconventional. Earlier studies in game development and sound production led to a couple of short international tours (Tahiti and New Zealand) as a sound engineer with [Te Vaka](https://en.wikipedia.org/wiki/Te_Vaka), the musicians who wrote Disney's *Moana* film score. After that came media QC and a few months running PowerShell automation for the racing.com broadcast syndication pipeline at Chief Entertainment, then a stint as a disability support worker before founding Care Culture. I like building things and I like fixing things; the variety is the point.
 
