@@ -1,35 +1,23 @@
-## Hi, I'm Curtis 👋
+# Curtis Martin
 
-Sydney-based software engineer finishing a Master of IT (GPA 7/7) and looking for my first graduate engineering role. My wife and I founded [Care Culture](https://careculture.com.au), an NDIS disability services provider, in 2021. We've onboarded and managed 60+ staff and supported 100+ participants. I write the software that runs it.
+Software engineer in Sydney. Finishing a Master of IT at UNE (7.0 GPA),
+graduating late 2026.
 
-I'm tech-agnostic and enjoy with picking up new languages, frameworks, and tools.
+Since 2021 I've co-run [Care Culture](https://careculture.com.au), an NDIS
+provider, and built the software it operates on: onboarding and compliance automation,
+booking management, and invoicing tools on Google Apps Script.
 
-My path here was unconventional: game development studies, sound engineering tours with [Te Vaka](https://en.wikipedia.org/wiki/Te_Vaka) (Disney's *Moana* film score composers), media operator at Chief Entertainment, then disability support work before starting Care Culture.
+Mostly working in Python, TypeScript, and Java. FastAPI, SvelteKit, React,
+PostgreSQL, Docker. I also run a small homelab: OpenMediaVault, a stack of
+Docker services, Nginx Proxy Manager, Tailscale.
 
-### What I'm working on
+### Projects
 
-- **[svelte-a11y-panel](https://a11y.clmartin.dev)** - Open-source accessibility panel for Svelte 5. 20+ features (contrast modes, dyslexia fonts, TTS, voice nav, virtual keyboard), Shadow DOM isolated, published to npm with a setup CLI. Built it for the Care Culture site, then extracted it into a standalone package.
-  
-- **[daily-ascent](https://github.com/curtislmartin/daily-ascent)** - iOS + watchOS bodyweight training app. SwiftUI, SwiftData, Swift 6 with strict concurrency, HealthKit, WatchConnectivity, and a CoreMotion sensor recording pipeline feeding a Supabase backend for future ML-powered rep counting. [Live on the App Store.](https://apps.apple.com/au/app/daily-ascent/id6760611343)
-
-- **[daily-ascent-engineering](https://github.com/curtislmartin/daily-ascent-engineering)** - the specs, plans, and architecture decisions behind Daily Ascent. I write the design docs before I write the code, and this repo is where they live.
-
-- **[participant-buddy](https://github.com/curtislmartin/participant-buddy)** - open-source NDIS client management dashboard built on Google Apps Script. Compliance tracking, automated reminders, email templates with 40+ dynamic placeholders. We use it every day at Care Culture; now MIT licensed so other small providers can too.
-
-- **[clmartin.dev](https://clmartin.dev)** - personal site and blog. SvelteKit.
-
-### Stack I actually use
-
-**Mobile / native:** Swift 6, SwiftUI, SwiftData, watchOS, HealthKit, CoreMotion, Swift Testing, Dart
-
-**Web:** SvelteKit, TypeScript, Astro, Vercel
-
-**Backend:** Supabase, FastAPI, PostgreSQL, Google Apps Script, Sanity, PHP
-
-**Tooling:** Git, GitHub Actions, Xcode, VS Code, nvim
-
-**Homelab / infra:** Arch Linux (Omarchy), OpenMediaVault, Docker
+- **[badminton_stroke_classification](https://github.com/curtislmartin/badminton_stroke_classification)** — UNE capstone, 7-person team. Classifies badminton strokes from match video. I built most of the frontend, backend, and deployment.
+- **[Daily Ascent](https://apps.apple.com/au/app/daily-ascent/id6760611343)** — bodyweight training app for iPhone and Apple Watch, live on the App Store. Injury-aware scheduling and a paired watch app. My first native project.
+- **[svelte-a11y-panel](https://a11y.clmartin.dev)** — accessibility panel for Svelte 5, built for Care Culture's site and extracted into an npm package. Contrast modes, dyslexia fonts, text-to-speech. MIT.
+- **[clmartin.dev](https://clmartin.dev)** — personal site. SvelteKit, TypeScript, Vitest.
 
 ### Get in touch
 
-Open an issue on any repo above, email [clmartin.dev@gmail.com](mailto:clmartin.dev@gmail.com), or find me at [clmartin.dev](https://clmartin.dev).
+Email [clmartin.dev@gmail.com](mailto:clmartin.dev@gmail.com) or find me at [clmartin.dev](https://clmartin.dev).
