@@ -11,7 +11,7 @@ graduate or junior software engineering role.
 Python · TypeScript · JavaScript · Swift · FastAPI · React · SvelteKit · Google
 Apps Script · Docker
 
-## Selected work
+## Recent projects
 
 - [Badminton Stroke Classifier](https://github.com/curtislmartin/badminton_stroke_classification)
   — full-stack implementation lead on a seven-person UNE capstone.
