@@ -5,7 +5,7 @@ Information Technology at UNE with a 92.9 WAM, graduating October 2026.
 
 I build software for real operational problems. At Care Culture, an NDIS
 provider I co-founded, I develop Google Workspace tools for onboarding,
-bookings, invoicing and reporting. I am currently looking for a full-time
+bookings, invoicing, reporting, and service planning and delivery. I am currently looking for a full-time
 graduate or junior software engineering role.
 
 Python · TypeScript · JavaScript · Swift · FastAPI · React · SvelteKit · Google
