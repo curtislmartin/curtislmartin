@@ -21,7 +21,7 @@ Apps Script · Docker
 - [svelte-a11y-panel](https://github.com/curtislmartin/svelte-a11y-panel) —
   accessible Svelte 5 panel extracted from a production site into an
   MIT-licensed package.
-- [Badminton Video Auto-Annotator](https://github.com/ahalp90/badminton_stroke_classification)
+- [Badminton Video Auto-Annotator](https://github.com/curtislmartin/badminton_cv_annotator)
   — current two-person Python and computer-vision capstone.
 - [invoice-to-csv](https://github.com/curtislmartin/invoice-to-csv) — Google
   Sheets and Apps Script tool used for Care Culture's Xero invoicing workflow.
